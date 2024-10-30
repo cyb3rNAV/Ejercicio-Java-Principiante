@@ -1,0 +1,7 @@
+Ejercicio 1 "Saludar" : 
+
+Crear un programa que pida un nombre, después un apellido, y diga "Hola <nombre> <apellido>"
+
+Ejercicio 2 "Suma numero enteros" :
+
+Crear un programa que pida dos números enteros (primero uno y luego otro) y muestre a continuación “la suma de <n1> y <n2> es <n1+n2>”
